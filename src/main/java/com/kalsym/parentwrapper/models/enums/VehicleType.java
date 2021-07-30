@@ -4,4 +4,5 @@ package com.kalsym.parentwrapper.models.enums;
 public enum VehicleType {
     BIKE,
     VAN,
+
 }

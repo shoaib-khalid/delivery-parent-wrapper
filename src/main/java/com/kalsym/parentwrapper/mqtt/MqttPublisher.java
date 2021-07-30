@@ -25,7 +25,6 @@ public class MqttPublisher {
             System.out.println("############################ Mqtt Publisher Connected ##########################");
         else
             System.out.println("############################ Mqtt Publisher Not Connected ##########################");
-
     }
 
     public MqttPublisher(String url, String clientId) throws MqttException {
